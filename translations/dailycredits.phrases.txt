@@ -58,5 +58,6 @@
 	{
 		"#format"	"{1:i}"
 		"en"		"{teamcolor}[Store]{default} You need to play on the server for {green}{1} more minutes{default} to be able to receive your daily credits!"
+		"fr"		"{teamcolor}[Store]{default} Vous devez jouer sur le serveur pendant {green}{1} plus de minutes {default} pour pouvoir recevoir vos crédits quotidiens!"
 	}	
 }
